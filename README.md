@@ -1,4 +1,4 @@
-# lisbon-chair-shop
+# lisbon-chair-shop - Design Rules
 
 This is a simple HTML/CSS Project and its purpose is to practice my Web Design skills.
 
