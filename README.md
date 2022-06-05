@@ -25,17 +25,18 @@ II. Typography
      3.2) Decide between serif and sans-serif typeface;
      3.3) Experiment with all the "good" typefaces; 
   4) Font size system (px): 10 / 12 / 14 / 16 / 18 / 20 / 24 / 30 / 36 / 44 / 52 / 62 / 74 / 86 / 98;
-  5) Normal text size: between 16 and 32px;
-  6) Long text (like a blog post): 20px or bigger;
-  7) Headlines: 50px+ and bold (600+) depending on personality;
-  8) Don't use font weight lower than 400 (regular);
-  9) Use less than 75 characters per line;
-  10) For normal-sized text, use a line-height between 1.5 and 2. For big text - below 1.5 (like 1.1 or 1.2);
-  11) Decrease the letter spacing in headlines, if it looks unnatural;
-  12) For short titles - experiment with all caps; small, bold and increased letter spacing;
-  13) Don't justify the text;
-  14) Don't center long text blocks (smalls are fine);
-  15) Tools: Google Fonts, Font Squirrel, Type Scale - https://type-scale.com/;
+  5) Spacing system (px): 2 / 4 / 8 / 12 / 16 / 24 / 32 / 48 / 64 / 80 / 96 / 128;
+  6) Normal text size: between 16 and 32px;
+  7) Long text (like a blog post): 20px or bigger;
+  8) Headlines: 50px+ and bold (600+) depending on personality;
+  9) Don't use font weight lower than 400 (regular);
+  10) Use less than 75 characters per line;
+  11) For normal-sized text, use a line-height between 1.5 and 2. For big text - below 1.5 (like 1.1 or 1.2);
+  12) Decrease the letter spacing in headlines, if it looks unnatural;
+  13) For short titles - experiment with all caps; small, bold and increased letter spacing;
+  14) Don't justify the text;
+  15) Don't center long text blocks (smalls are fine);
+  16) Tools: Google Fonts, Font Squirrel, Type Scale - https://type-scale.com/;
  
  III. Colors
   1) Make the main color match the website personality;
@@ -66,3 +67,5 @@ II. Typography
   11) Don't make text too light! Use tool to check contrast between text and background colors (4:5:1 for normal and 3:1 for large text):
     11.1) Coolors;
     11.2) https://webaim.org/resources/contrastchecker/
+
+IV. Images and Illustrations
