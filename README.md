@@ -94,7 +94,7 @@ II. Typography
     <li>On dark colored backgrounds - use a tint of the background (lighter version) for the text;</li>
     <li>Text shouldn't be completely black - it looks heavy and uninviting (gray instead);</li>
     <li>
-      Don't make text too light! Use tool to check contrast between text and background colors (4:5:1 for normal and 3:1 for large text):
+      Don't make text too light! Use tool (Contrast Color checker) to check contrast between text and background colors (4:5:1 for normal and 3:1 for large text):
       <ul>
         <li>Coolors;</li>
         <li>https://webaim.org/resources/contrastchecker/</li>
