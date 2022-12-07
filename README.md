@@ -156,6 +156,7 @@ V. Icons
       <ul>
         <li><strong>Font Awesome</strong>;</li>
         <li><strong>Phosphor icons</strong>;</li>
+        <li><strong>Heroicons</strong>;</li>
         <li><strong>ionicons</strong>;</li>
         <li><strong>ICONS8</strong>.</li>
       </ul>
