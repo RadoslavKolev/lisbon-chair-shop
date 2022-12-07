@@ -178,7 +178,7 @@ V. Icons
 VI. Shadows
   <ol>
     <li>
-      You <strong>don’t have to use</strong> shadows! Only use them if it makes sense for the <strong>website personality</strong>;
+      You <strong>don’t have to use</strong> shadows! Only use them if it makes sense for the <strong>website personality</strong>:
       <ul>
         <li>The more Serious/Elegant design - <strong>less shadows</strong>;</li>
         <li>The more Playful/Fun design - <strong>more shadows</strong>;</li>
@@ -200,3 +200,31 @@ VI. Shadows
   </ol>
 
 VII. Border Radius
+  <ol>
+    <li>
+      Use border-radius to <strong>increase the playfulness</strong> and fun of the design, to make it <strong>less serious</strong>:
+      <ul>
+        <li>The more Serious/Elegant design - <strong>less border-radius</strong>;</li>
+        <li>The more Playful/Fun design - <strong>more border-radius</strong>;</li>
+      </ul>
+    </li>
+    <li>
+      Typefaces have a certain roundness: make sure that border-radius <strong>matches that roundness</strong>:
+      <ul>
+        <li><strong>Very round typeface</strong>, lots of border-radius in button, icons and image;</li>
+        <li><strong>Boxy/squared typeface</strong>, but designers wanted to add some playfulness, so <strong>little</strong> border-radius;</li>
+      </ul>
+    </li>
+    <li>
+      Use border-radius on:
+      <ul>
+        <li><strong>Buttons</strong>;</li>
+        <li><strong>Images</strong>;</li>
+        <li><strong>Around Icons</strong>;</li>
+        <li><strong>Standout Sections</strong>;</li>
+        <li><strong>Other elements</strong>.</li>
+      </ul>
+    </li>
+  </ol>
+  
+VIII. Whitespace
