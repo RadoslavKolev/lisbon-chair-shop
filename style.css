@@ -62,6 +62,8 @@ h2 {
   text-transform: uppercase;
   font-weight: 500;
   display: inline-block;
+  /** If the value is higher than the element's height - that won't change its look - Try with 30px or 1000px (stays the same) */
+  border-radius: 100px;
 }
 
 .btn:hover, .btn:active {
@@ -113,6 +115,7 @@ h1 {
 
 img {
   width: 100%;
+  border-radius: 12px;
 }
 
 /* FEATURES */
@@ -142,6 +145,7 @@ img {
   background-color: var(--main-color);
   color: #fff;
   padding: 24px;
+  border-radius: 12px;
 }
 
 .testimonial-box {
@@ -166,6 +170,12 @@ img {
 .chair {
   /** Horizontal, vertical, blur, radius (scales the shadow up - optional), color */
   box-shadow: 0 20px 30px 0 rgba(0, 0, 0, 0.07);
+  border-radius: 12px;
+}
+
+.chair img {
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
 }
 
 .chair-box {
