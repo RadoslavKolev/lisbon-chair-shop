@@ -150,7 +150,7 @@ IV. Images and Illustrations
   </ol>
 
 V. Icons
-<ol>
+  <ol>
     <li>
       Use a <strong>good icon pack</strong> (there are tons of free and paid icon packs):
       <ul>
@@ -174,3 +174,29 @@ V. Icons
     <li>Don’t confuse your users: icons need to make sense and <strong>fit the text or action</strong>;</li>
     <li>Don't make icons larger than what they <strong>were designed for</strong>. If needed, <strong>enclose them in a shape</strong>;</li>
   </ol>
+
+VI. Shadows
+  <ol>
+    <li>
+      You <strong>don’t have to use</strong> shadows! Only use them if it makes sense for the <strong>website personality</strong>;
+      <ul>
+        <li>The more Serious/Elegant design - <strong>less shadows</strong>;</li>
+        <li>The more Playful/Fun design - <strong>more shadows</strong>;</li>
+      </ul>
+    </li>
+    <li>Use shadows <strong>in small doses</strong>: don’t add shadows to every element;</li>
+    <li>Go light on shadows, don’t make them <strong>too dark</strong>;</li>
+    <li>Use <strong>small shadows</strong> for smaller elements that should stand out (to draw attention);</li>
+    <li>Use <strong>medium-sized shadows</strong> for larger areas that should stand out a bit more;</li>
+    <li>Use <strong>large shadows</strong> for elements that should really <strong>float above</strong> the interface;</li>
+    <li>
+      Experiment with <strong>changing shadows</strong> on mouse interaction: 
+      <ul>
+        <li>Hover - medium-sized shadow "pulls" the element <strong>closer to the user</strong>;</li> 
+        <li>Click - smaller shadow "pushes" the element <strong>back into the interface</strong>;</li>
+      </ul>
+    </li>
+    <li>Bonus: Experiment with <strong>glows</strong> (colored shadows);</li>
+  </ol>
+
+VII. Border Radius
