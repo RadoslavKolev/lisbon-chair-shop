@@ -115,8 +115,14 @@ img {
 }
 
 /* FEATURES */
+/** Icons are picked from Heroicons.com */
+/** Outline icons use "stroke" property */
+/** Solid icons use "fill" property */
 .features-icon {
-
+  stroke: var(--main-color);
+  width: 32px;
+  height: 32px;
+  margin-bottom: 16px;
 }
 
 .features-title {
@@ -182,7 +188,9 @@ h3 {
 }
 
 .chair-icon {
-
+  stroke: var(--main-color);
+  width: 24px;
+  height: 24px;
 }
 
 .chair-price {
