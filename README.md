@@ -103,4 +103,50 @@ II. Typography
   </ol>
 
 IV. Images and Illustrations
+  <ol>
+    <li>
+      Different types of images:
+      <ul>
+        <li><strong>Product photos</strong> - pictures of the product, we're selling;</li>
+        <li><strong>Storytelling photos</strong> - pictures that tell the story/idea of the company;</li>
+        <li><strong>Illustrations</strong> - getting popular these days;</li>
+        <li><strong>Patterns</strong> - don't use them too much.</li>
+      </ul>
+    </li>
+    <li>
+      Use images to support your website’s <strong>message and story</strong>. Use only <strong>relevant images</strong>!
+    </li>
+    <li>
+      Prefer <strong>original images</strong>. If not possible, use <strong>original-looking</strong> stock images (not generic ones!)
+      <br />
+      Use images from here, instead for free:
+      <ul>
+        <li>Unsplash - the best</li>
+        <li>Pexels</li>
+        <li>DrawKit</li>
+        <li>unDraw</li>
+      </ul>
+    </li>
+    <li>Try to show <strong>real people</strong> to trigger user’s emotions;</li>
+    <li>If necessary, <strong>crop images</strong> to fit your message;</li>
+    <li>Experiment <strong>combining</strong> photos, illustrations and patterns;</li>
+    <li>
+      Handling text on images:
+      <ul>
+        <li>Method #1: Darker or brighten image (completely or partially, using a gradient);</li>
+        <li>Method #2: Position text into neutral image area;</li>
+        <li>Method #3: Put text in a box;</li>
+      </ul>
+    </li>
+    <li>
+      To account for <strong>high-res screens</strong>, make image dimensions <strong>2x as big</strong> as their displayed size:
+      <ul>
+        <li><strong>Scale factor</strong>: Actual pixels the screen contains / Pixels represented on screen;</li>
+        <li>On high-res screens, scale factor is 2x or even 3x, on “normal” screens it’s just 1x (1 physical pixel = 1 design pixel);</li>
+      </ul>
+    </li>
+    <li><strong>Compress images</strong> for a lower file size and better performance. Use <strong>Squoosh</strong>;</li>
+    <li>When using multiple images side-by-side, make sure they have the <strong>exact same dimensions</strong>;</li>
+  </ol>
 
+V. Icons
