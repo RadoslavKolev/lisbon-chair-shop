@@ -289,3 +289,49 @@ IX. Visual Hierarchy
   </ol>
   
 X. User Experience (UX)
+  <ul>
+    <li>
+      <strong>User Interface (UI)</strong> is the visual presentation of a product. It’s how the graphical interface looks and feels like:
+      <ul>
+        <li>Layout;</li>
+        <li>"Personality";</li>
+        <li>Typography, colors, icons, etc.</li>
+      </ul>
+    </li>
+    <li>
+      <strong>User Experience (UX)</strong> is the overall experience the user has while interacting with the product:
+      <ul>
+        <li>Does the app feel <strong>logical</strong> and well thought out?</li>
+        <li>Does the navigation work <strong>intuitively</strong>?</li>
+        <li>Are users <strong>reaching their goals</strong>?</li>
+      </ul>
+    </li>
+    <li><strong>UI Design</strong> is what makes an interface <strong>beautiful</strong>;</li>
+    <li><strong>UX Design</strong> is what makes an interface <strong>useful and functional</strong>;</li>
+    <li>UX Design <strong>cannot exist</strong> without UI Design;</li>
+    <li>A website or application exists for a reason: a user has a goal for visiting it, and a business has a goal for creating it.</li>
+  </ul>
+  
+  <ol>
+    <li>
+      UX Rules for <strong>Usabilty</strong>:
+      <ul>
+        <li>Don’t design complicated layouts. Don’t reinvent the wheel. <strong>Use patterns that users know</strong>;</li>
+        <li>Make your call-to-action the <strong>most prominent element</strong>, and make the <strong>text descriptive</strong>;</li>
+        <li>Use <strong>blue text</strong> and <strong>underlined text</strong> only for <strong>links</strong>;</li>
+        <li>Animations should have a <strong>purpose</strong> and be <strong>fast</strong>: between 200 and 500 ms;</li>
+        <li>In forms, align labels and fields in a <strong>single vertical line</strong>, to make the form <strong>easier to scan</strong>;</li>
+        <li>Offer users <strong>good feedback</strong> for all actions: form errors, form success, etc.</li>
+        <li>Place action buttons where they will <strong>create an effect</strong< (Law of Locality);</li>
+      </ul>
+    </li>
+    <li>
+      UX Rules for <strong>Website Content</strong>:
+      <ul>
+        <li>Use a <strong>descriptive, keyword-focused headline</strong> on your main page. Don’t be vague or fancy!</li>
+        <li>Only include <strong>relevant information</strong>, efficiently! <strong>Cut out fluff</strong> and make the content 100% clear;</li>
+        <li>Use <strong>simple words</strong>! Avoid technical jargon and “smart-sounding” words;</li>
+        <li>Break up long text with <strong>sub-headings, images, block quotes, bullet points</strong>, etc.</li>
+      </ul>
+    </li>
+  </ol>
