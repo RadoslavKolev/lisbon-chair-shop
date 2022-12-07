@@ -6,13 +6,24 @@ Useful Tips:
 
 I. Website Personalities
   <ol>
-    <li><strong>Serious/Elegant</strong> -  for luxury and elegance, based on thin serif typefaces, golden or pastel colors, and big high-quality images;</li>
-    <li><strong>Minimalist/Simple</strong> -  focusses on the essential text content, using small or medium-sized sans-serif black text, lines, and few images and icons;</li>
-    <li><strong>Plain/Neutral</strong> -  design that gets out of the way by using neutral and small typefaces, and a very structured layout. Common in big corporations;</li>
-    <li><strong>Bold/Confident</strong> -  makes an impact, by featuring big and bold typography, paired with confident use of big and bright colored blocks;</li>
-    <li><strong>Calm/Peaceful</strong> -  for products and services that care, transmitted by calming pastel colors, soft serif headings, and matching images/illustrations;</li>
-    <li><strong>Startup/Upbeat</strong> - widely used in startups, featuring medium-sized sans-serif typefaces, light-grey text and backgrounds, and rounded elements;</li>
-    <li><strong>Playful/Fun</strong> - colorful and round designs, fueled by creative elements like hand-drawn icons or illustrations, animations, and fun language;</li>
+    <li>
+      <strong>Serious/Elegant</strong> -  for luxury and elegance, based on thin serif typefaces, golden or pastel colors, and big high-quality images;
+    </li>
+    <li>
+      <strong>Minimalist/Simple</strong> - focusses on the essential text content, using small or medium-sized sans-serif black text, lines, and few images and icons;     </li>
+    <li>
+      <strong>Plain/Neutral</strong> - design that gets out of the way by using neutral and small typefaces, and a very structured layout. Common in big corporations;     </li>
+    <li>
+      <strong>Bold/Confident</strong> - makes an impact, by featuring big and bold typography, paired with confident use of big and bright colored blocks;
+    </li>
+    <li>
+      <strong>Calm/Peaceful</strong> - for products and services that care, transmitted by calming pastel colors, soft serif headings, and matching images/illustrations;
+    </li>
+    <li>
+      <strong>Startup/Upbeat</strong> - widely used in startups, featuring medium-sized sans-serif typefaces, light-grey text and backgrounds, and rounded elements;       </li>
+    <li>
+      <strong>Playful/Fun</strong> - colorful and round designs, fueled by creative elements like hand-drawn icons or illustrations, animations, and fun language;
+    </li>
   </ol>
 
 II. Typography
@@ -322,7 +333,7 @@ X. User Experience (UX)
         <li>Animations should have a <strong>purpose</strong> and be <strong>fast</strong>: between 200 and 500 ms;</li>
         <li>In forms, align labels and fields in a <strong>single vertical line</strong>, to make the form <strong>easier to scan</strong>;</li>
         <li>Offer users <strong>good feedback</strong> for all actions: form errors, form success, etc.</li>
-        <li>Place action buttons where they will <strong>create an effect</strong< (Law of Locality);</li>
+        <li>Place action buttons where they will <strong>create an effect</strong> (Law of Locality);</li>
       </ul>
     </li>
     <li>
