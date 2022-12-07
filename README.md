@@ -150,3 +150,26 @@ IV. Images and Illustrations
   </ol>
 
 V. Icons
+<ol>
+    <li>
+      Use a <strong>good icon pack</strong> (there are tons of free and paid icon packs):
+      <ul>
+        <li><strong>Font Awesome</strong>;</li>
+        <li><strong>Phosphor icons</strong>;</li>
+        <li><strong>ionicons</strong>;</li>
+        <li><strong>ICONS8</strong>.</li>
+      </ul>
+    </li>
+    <li>Use only one icon pack. <strong>Don’t mix</strong> icons from different icon packs;</li>
+    <li>
+      Use <strong>SVG icons</strong> or <strong>icon fonts</strong>. Don’t use bitmap image formats (.jpg and .png), because they don't scale and become unsharp;
+    </li>
+    <li>Adjust to website personality! <strong>Roundness, weight and filled/outlined</strong> depend on typography;</li>
+    <li>Use icons to <strong>provide visual assistance</strong> to text;</li>
+    <li>Use icons for <strong>product feature blocks</strong>;</li>
+    <li>Use icons <strong>associated with actions</strong>, and <strong>label them</strong> (unless no space or icon is 100% clear);</li>
+    <li>Use icons as <strong>bullet points</strong>;</li>
+    <li>To keep icons neutral, <strong>use same color as text</strong>. To draw more attention, <strong>use different color</strong>;</li>
+    <li>Don’t confuse your users: icons need to make sense and <strong>fit the text or action</strong>;</li>
+    <li>Don't make icons larger than what they <strong>were designed for</strong>. If needed, <strong>enclose them in a shape</strong>;</li>
+  </ol>
