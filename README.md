@@ -228,3 +228,64 @@ VII. Border Radius
   </ol>
   
 VIII. Whitespace
+  <ul>
+    <li>The right amount of whitespace makes designs look <strong>clean, modern and polished</strong>;</li>
+    <li>Whitespace communicates how different pieces of information are <strong>related to one another</strong>;</li>
+    <li>Whitespace implies <strong>invisible relationships between the elements</strong> of a layout.</li>
+  </ul>
+  
+  <ol>
+    <li>Use tons of whitespace <strong>between sections</strong>;</li>
+    <li>Use a lot of whitespace <strong>between groups of elements</strong>;</li>
+    <li>Use whitespace <strong>between elements</strong>;</li>
+    <li>Inside <strong>groups of elements</strong>, try to use whitespace <strong>instead of lines</strong>;</li>
+    <li>The more some elements (or groups of elements) belong together, the closer they should be;</li>
+    <li>
+      Start with <strong>a lot of whitespace</strong>, maybe even too much! Then <strong>remove whitespace</strong> from there:
+      <ul>
+        <li>Too much whitespace looks <strong>detached</strong>, too little looks too </strong>crammed</strong>.</li>
+      </ul>
+    </li>
+    <li>
+      Match <string>other design choices</string>. If you have big text or big icons, you need more whitespace:
+      <ul>
+        <li>Huge text, lots of whitespace</li>
+        <li>Small text and images, less space.</li>
+      </ul>
+    </li>
+    <li>
+      Try a hard rule, such as using multiples of 16px for all spacing:
+      <ul>
+        <li>Whitespace: 2 / 4 / 8 / 12 / 16 / 24 / 32 / 48 / 64 / 80 / 96 / 128px and more.</li>
+      </ul>
+    </li>
+  </ol>
+  
+IX. Visual Hierarchy
+  <ul>
+    <li>Visual hierarchy is about <strong>establishing which elements</strong> of a design are <strong>the most important ones</strong>;</li>
+    <li>Visual hierarchy is about <strong>drawing attention</strong> to these most important elements;</li>
+    <li>Visual hierarchy is about <strong>defining a “path” for users</strong>, to guide them through the page;</li>
+    <li>We use a combination of position, size, colors, spacing, borders, and shadows to establish a meaningful visual hierarchy between elements/components.</li>
+  </ul>
+  
+  <ol>
+    <li>Position important elements <strong>closer to the top of the page</strong>, where they get more attention;</li>
+    <li>Use images mindfully, as they draw <strong>a lot of attention</strong> (larger images get more attention);</li>
+    <li>Whitespace creates separation, so <strong>use whitespace strategically</strong> to emphasize elements;</li>
+    <li>For text elements, use <strong>font size, font weight, color, and whitespace</strong> to convey importance;</li>
+    <li>
+      What text elements to emphasize? <strong>Titles, sub-titles, links, buttons, data points, icons</strong>:
+      <ul>
+        <li>You can also <strong>de-emphasize</strong> less important text, like labels or secondary/additional information</li>
+      </ul>
+    </li>
+    <li>Emphasize an important component using <strong>background color, shadow, or border</strong> (or multiple);</li>
+    <li>Try emphasizing some component A over component B by <strong>de-emphasizing component B</strong>;</li>
+    <li>
+      What components to emphasize? <strong>Testimonials, call-to-action sections, highlight sections, 
+      preview cards, forms, pricing tables, important rows/columns in tables</strong>, etc.
+    </li>
+  </ol>
+  
+X. User Experience (UX)
