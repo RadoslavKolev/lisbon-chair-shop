@@ -346,3 +346,11 @@ X. User Experience (UX)
       </ul>
     </li>
   </ol>
+
+XI. Design Inspiration Websites
+  <ul>
+    <li><a href="https://land-book.com/">Land-book</a></li>
+    <li><a href="https://onepagelove.com/">One Page Love</a></li>
+    <li><a href="https://www.awwwards.com/">Awwwards</a></li>
+    <li><a href="https://screenlane.com/">Screenlane</a></li>
+  </ul>
