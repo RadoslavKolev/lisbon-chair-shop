@@ -62,7 +62,14 @@ II. Typography
     <li>For short titles - experiment with all caps; small, bold and increased letter spacing;</li>
     <li>Don't justify the text;</li>
     <li>Don't center long text blocks (smalls are fine);</li>
-    <li>Tools: Google Fonts, Font Squirrel, Type Scale - https://type-scale.com/</li>
+    <li>
+      Tools: 
+      <ul>
+        <li><a href="https://fonts.google.com/">Google Fonts</a></li>
+        <li><a href="https://www.fontsquirrel.com/">Font Squirrel</a></li>
+        <li><a href="https://type-scale.com/">Type Scale</a></li>
+      </ul>
+    </li>
   </ol>
  
  III. Colors
@@ -82,11 +89,11 @@ II. Typography
       </ul>
     </li>
     <li>
-      Use a good color tone! Don't choose a random tone or CSS named colors;
+      Use a good color tone! Don't choose a random tone or CSS named colors. Tools:
       <ul>
-        <li>OpenColor - https://yeun.github.io/open-color/</li>
-        <li>Tailwind CSS;</li>
-        <li>Flat UI Colors 2;</li>
+        <li><a href="https://yeun.github.io/open-color/">OpenColor</a></li>
+        <li><a href="https://tailwindcss.com/docs/customizing-colors">Tailwind CSS</a></li>
+        <li><a href="https://flatuicolors.com/">Flat UI Colors 2</a></li>
       </ul>
     </li>
     <li>We need at least 2 types of colors - main color and grey color;</li>
@@ -94,9 +101,8 @@ II. Typography
     <li>
       Create lighter and darker versions of the picked colors (tints and shades):
       <ul>
-        <li>Coolors;</li>
-        <li>palleton.com;</li>
-        <li>Tint & Shade Generator;</li>
+        <li><a href="https://coolors.co/">Coolors</a></li>
+        <li><a href="https://maketintsandshades.com/">Tint & Shade Generator</a></li>
       </ul>
     </li>
     <li>Main color draws attention to the most important elements on the page (buttons, logos, etc.);</li>
@@ -107,8 +113,8 @@ II. Typography
     <li>
       Don't make text too light! Use tool (Contrast Color checker) to check contrast between text and background colors (4:5:1 for normal and 3:1 for large text):
       <ul>
-        <li>Coolors;</li>
-        <li>https://webaim.org/resources/contrastchecker/</li>
+        <li><a href="https://coolors.co/">Coolors</a></li>
+        <li><a href="https://webaim.org/resources/contrastchecker/">Contrast Color Checker</a></li>
       </ul>
     </li>
   </ol>
@@ -132,10 +138,10 @@ IV. Images and Illustrations
       <br />
       Use images from here, instead for free:
       <ul>
-        <li>Unsplash - the best</li>
-        <li>Pexels</li>
-        <li>DrawKit</li>
-        <li>unDraw</li>
+        <li><a href="https://unsplash.com/">Unsplash</a></li>
+        <li><a href="https://www.pexels.com/">Pexels</a></li>
+        <li><a href="https://www.drawkit.com/">DrawKit</a></li>
+        <li><a href="https://undraw.co/">unDraw</a></li>
       </ul>
     </li>
     <li>Try to show <strong>real people</strong> to trigger user’s emotions;</li>
@@ -156,7 +162,7 @@ IV. Images and Illustrations
         <li>On high-res screens, scale factor is 2x or even 3x, on “normal” screens it’s just 1x (1 physical pixel = 1 design pixel);</li>
       </ul>
     </li>
-    <li><strong>Compress images</strong> for a lower file size and better performance. Use <strong>Squoosh</strong>;</li>
+    <li><strong>Compress images</strong> for a lower file size and better performance. Use <a href="https://squoosh.app/">Squoosh</a>;</li>
     <li>When using multiple images side-by-side, make sure they have the <strong>exact same dimensions</strong>;</li>
   </ol>
 
@@ -165,11 +171,11 @@ V. Icons
     <li>
       Use a <strong>good icon pack</strong> (there are tons of free and paid icon packs):
       <ul>
-        <li><strong>Font Awesome</strong>;</li>
-        <li><strong>Phosphor icons</strong>;</li>
-        <li><strong>Heroicons</strong>;</li>
-        <li><strong>ionicons</strong>;</li>
-        <li><strong>ICONS8</strong>.</li>
+        <li><a href="https://fontawesome.com/icons">Font Awesome</a></li>
+        <li><a href="https://www.flaticon.com/">Flaticon</a></li>
+        <li><a href="https://phosphoricons.com/">Phosphor icons</a></li>
+        <li><a href="https://heroicons.com/">Heroicons</a></li>
+        <li><a href="https://ionic.io/ionicons">ionicons</a></li>
       </ul>
     </li>
     <li>Use only one icon pack. <strong>Don’t mix</strong> icons from different icon packs;</li>
